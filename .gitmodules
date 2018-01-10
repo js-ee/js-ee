@@ -1,0 +1,3 @@
+[submodule "dependent-types"]
+	path = dependent-types
+	url = git@github.com:js-ee/dependent-types.git
