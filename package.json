@@ -1,6 +1,6 @@
 {
   "name": "enterprise-edition",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "JavaScript Enterprise Edition",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/js-ee/js-ee.git"
   },
   "keywords": [
-    "enterprise"
+    "enterprise", "enterprise edition", "js ee"
   ],
   "author": "Alexander Abramov",
   "license": "MIT",

@@ -1,6 +1,6 @@
 
-const dependentTypes = require('dependent-types');
+const DependentTypes = require('./dependent-types');
 
 module.exports = {
-    dependentTypes,
+    DependentTypes,
 };
