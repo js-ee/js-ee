@@ -1,6 +1,6 @@
 {
   "name": "enterprise-edition",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "JavaScript Enterprise Edition",
   "main": "index.js",
   "scripts": {

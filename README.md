@@ -1,3 +1,4 @@
 # JavaScript Enterprise Edition
 
-JavaScript Enterprise Edition Main Repository
+- Dependent Types (https://github.com/js-ee/dependent-types)
+- Architecture Patterns (https://github.com/js-ee/architecture-patterns)

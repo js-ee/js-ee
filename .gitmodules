@@ -1,3 +1,6 @@
 [submodule "dependent-types"]
 	path = dependent-types
-	url = git@github.com:js-ee/dependent-types.git
+	url = https://github.com/js-ee/dependent-types.git
+[submodule "architecture-patterns"]
+	path = architecture-patterns
+	url = https://github.com/js-ee/architecture-patterns.git
